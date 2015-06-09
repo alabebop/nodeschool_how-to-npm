@@ -1,2 +1,3 @@
-# nodeschool_how-to-npm
-Learning notes of the NodeSchool workshop "How to npm"
+# Learn to npm!
+
+This repository contains my learning notes of the (NodeSchool workshop "How to npm")[http://nodeschool.io/#workshoppers]
