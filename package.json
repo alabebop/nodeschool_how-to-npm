@@ -1,0 +1,25 @@
+{
+  "name": "@alabebop/how-to-npm",
+  "version": "1.0.0",
+  "description": "Test npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alabebop/nodeschool_how-to-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Xiaoli Shen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alabebop/nodeschool_how-to-npm/issues"
+  },
+  "homepage": "https://github.com/alabebop/nodeschool_how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
