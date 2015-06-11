@@ -19,7 +19,5 @@
     "url": "https://github.com/alabebop/nodeschool_how-to-npm/issues"
   },
   "homepage": "https://github.com/alabebop/nodeschool_how-to-npm#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
